@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">5</string>
+    <string name="food_name">Введите название блюда</string>
+    <string name="food_edit_name">Название блюда</string>
+    <string name="next">Далее</string>
+    <string name="address">Адрес доставки</string>
+    <string name="address_edit">Введите адрес доставки</string>
+    <string name="information">Информация о заказе</string>
+</resources>
